@@ -98,15 +98,6 @@ For a Practical Demonstration of the NucleiFuzzer tool see the below video 👇 
 
 [<img src="https://img.youtube.com/vi/2K2gTCHt6kg/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/2K2gTCHt6kg)
 
-## Star History
-
-<a href="https://star-history.com/#0xKayala/NucleiFuzzer&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0xKayala/NucleiFuzzer&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xKayala/NucleiFuzzer&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xKayala/NucleiFuzzer&type=Date" />
- </picture>
-</a>
 
 ## Contributing
 
