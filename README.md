@@ -40,14 +40,6 @@ Take advantage of `BlackFuzzer` to safeguard your web applications against vulne
 ### Templates:
 [Fuzzing Templates](https://github.com/projectdiscovery/nuclei-templates) `git clone https://github.com/projectdiscovery/nuclei-templates.git`
 
-## Screenshot
-<img width="1067" height="559" alt="image" src="https://github.com/user-attachments/assets/3938d952-a3fd-4916-9d8e-89a1477b7065" />
-
-
-## Output
-<img width="1733" height="901" alt="image" src="https://github.com/user-attachments/assets/7fe78908-4f3f-4d8d-82cc-6eb406a7cf3c" />
-
-
 ## Usage
 
 ```sh
