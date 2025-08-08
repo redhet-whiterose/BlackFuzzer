@@ -84,13 +84,6 @@ Here are a few examples of how to use BlackFuzzer:
   nf -f file.txt
   ```
 
-## Practical Demonstration:
-
-For a Practical Demonstration of the BlackFuzzer tool see the below video 👇 <br>
-
-[<img src="https://img.youtube.com/vi/2K2gTCHt6kg/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/2K2gTCHt6kg)
-
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to `BlackFuzzer`, please follow these steps:
